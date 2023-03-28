@@ -1,2 +1,2 @@
 # em-translator
-Translation for minecraft material types and entity types in all languages supported
+Full translation for Minecraft material types and other(Entities, Enchantments, Potion Effects) in all languages supported
